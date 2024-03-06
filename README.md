@@ -6,6 +6,7 @@ In the summer of 2022, I participated in the COSMOS program at UC Davis, where I
 This code was coded in RobotC, the language that the LEGO EV3 brains use to interpret what to do. 
 
 _TShirtFolderBrain1.c_ contains the code for the first (main) brain. This brain has the 2 arm motor and 2 base motors connected to it.
+
 _TShirtFolderBrain2.c_ contains the code for the second brain. This brain has only the button attached to it that, when pushed, would complete the final flip. 
 
 [Here is the link](https://sites.google.com/view/akshatc5portfolio/robotics) to the entire process of creating the robot. Please look through this to understand my process as well as see the final demonstration and poster board.
