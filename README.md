@@ -11,4 +11,6 @@ _TShirtFolderBrain2.c_ contains the code for the second brain. This brain has on
 
 [Here is the link](https://sites.google.com/view/akshatc5portfolio/robotics) to the entire process of creating the robot. Please look through this to understand my process as well as see the final demonstration and poster board.
 
+[Here is the link](https://docs.google.com/presentation/d/1-w6a_xX43fABN0-vZOO3sVkA_5iRDT9WJjzb7j_wTsg/edit?usp=sharing) to the final slideshow presentation of the robot. 
+
 This project was presented at a symposium with 200+ parents, professors, and students in attendance. 
